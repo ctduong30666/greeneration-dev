@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     const textElement = document.querySelector('.typing-text');
-    const text = 'Greeeration';
+    const text = 'Greeneration';
     const coloredText = 'Gree<span class="green-text">eration</span>';
     let index = 0;
     let isAdding = true;
